@@ -1,4 +1,4 @@
-<h1 align="center">Abdur Rehman</h1>
+<h1 align="center">Abdi Razzaq</h1>
 <h3 align="center">Full Stack Software Engineer · Backend & Cloud-Native Systems · AI/ML Applications</h3>
 
 <p align="center">
@@ -213,19 +213,6 @@ Infrastructure/DevOps-focused project — CI/CD pipeline, IaC setup, or Kubernet
 </td>
 </tr>
 </table>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Coder-Abdi&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Abdi&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-Abdi&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
