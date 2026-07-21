@@ -1,5 +1,7 @@
 <h1 align="center">Abdi Razzaq</h1>
-<h3 align="center">Full Stack Software Engineer · Backend & Cloud-Native Systems · AI/ML Applications</h3>
+<h3 align="center">
+Senior Software Engineer · Software Engineer · Software Developer · Backend Engineer · Full Stack Engineer · Java Developer · Cloud Engineer · AI Engineer
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -19,29 +21,24 @@
 
 ### About Me
 
-I'm a software engineer focused on building systems that hold up under real-world load — not just features that work in a demo. My day-to-day sits across backend architecture, API design, and cloud infrastructure, with a growing focus on integrating AI/ML capabilities into production applications.
+I'm a **Senior Software Engineer** passionate about building scalable, reliable, and high-performance software systems. As a **Software Engineer**, **Software Developer**, **Backend Engineer**, **Full Stack Engineer**, **Java Developer**, **Cloud Engineer**, and **AI Engineer**, I enjoy solving complex engineering challenges and delivering production-ready applications that create real business value.
 
-I care more about **why** a system is designed a certain way than which framework it uses. That means thinking in terms of:
+My expertise spans backend architecture, distributed systems, RESTful API design, cloud-native applications, and modern software engineering practices. I specialize in developing enterprise-grade solutions using Java and Spring Boot while leveraging cloud platforms, containerization, and DevOps principles to build scalable and resilient systems.
 
-- **Scalability & reliability** — designing services that degrade gracefully under load, not just ones that work at low traffic
-- **API-first architecture** — clean contracts, versioning, and documentation that other engineers can build on without guesswork
-- **Data-driven decisions** — choosing the right database and caching strategy based on access patterns, not habit
-- **Cloud-native by default** — containerized services, infrastructure as code, and CI/CD as the baseline, not an afterthought
-- **Pragmatic AI integration** — using ML where it solves a real problem, not because it's trendy
+I also enjoy integrating artificial intelligence into real-world products, building intelligent features that improve user experience and automate complex workflows. Whether I'm designing microservices, optimizing database performance, architecting cloud infrastructure, or developing AI-powered applications, I focus on writing clean, maintainable, and efficient software.
 
-I've worked across enterprise applications and greenfield systems, which has taught me the difference between code that ships fast and code that survives six months of production traffic and three engineering handoffs.
+I care more about **why** a system is designed a certain way than which framework it uses. Every technical decision should improve scalability, maintainability, reliability, and long-term business value.
 
----
+### What I Focus On
 
-### Featured Engineering Focus
+- **Scalable Backend Systems** — Designing microservices, REST APIs, distributed systems, and high-performance backend architectures.
+- **Full Stack Development** — Building responsive frontend applications backed by scalable and secure server-side systems.
+- **Cloud Engineering** — Developing cloud-native applications using containers, orchestration, CI/CD, and infrastructure automation.
+- **Artificial Intelligence** — Integrating machine learning, NLP, recommendation systems, and LLM-powered capabilities into production software.
+- **Performance & Reliability** — Optimizing databases, caching strategies, concurrency, observability, and application performance.
+- **Software Architecture** — Designing maintainable, extensible, and production-ready systems following modern engineering best practices.
 
-| Area | What I bring |
-|---|---|
-| **Backend & System Design** | Service decomposition, API contracts, database schema design, caching strategy, and tradeoff-driven architecture decisions |
-| **Cloud & Infrastructure** | Containerized deployments, orchestration, CI/CD pipelines, and infrastructure that's reproducible, not hand-configured |
-| **AI/ML Integration** | Building ML-backed features into existing product surfaces — recommendation logic, NLP-driven tooling, and model-serving pipelines |
-| **Frontend Engineering** | Component-driven UIs that consume well-designed APIs cleanly, with performance and state management treated as first-class concerns |
-
+I've worked across enterprise software and greenfield projects, which has taught me the difference between code that simply works and software that continues to perform reliably after months of production usage, increasing traffic, and multiple engineering handoffs.
 ---
 
 ### Core Stack
