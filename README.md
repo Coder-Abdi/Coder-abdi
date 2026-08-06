@@ -20,6 +20,14 @@ Senior Software Engineer | Backend Systems | Cloud-Native Applications | AI Engi
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Designing+cloud-native+applications;Developing+AI-powered+software;Full+Stack+%7C+Backend+%7C+Cloud+Engineering" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Coder-Abdi&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Abdi&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Coder-Abdi&theme=github-dark&hide_border=true&card_height=170" />
+</p>
 
 
 ---
