@@ -5,11 +5,11 @@ Senior Software Engineer | Backend Systems | Cloud-Native Applications | AI Engi
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/abdirizak-abdi-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_DEV_EMAIL">
+  <a href="mailto:abdirizak.mohamud.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
@@ -147,11 +147,11 @@ PostgreSQL · MySQL · MongoDB · Redis
 I'm always interested in discussing software engineering, cloud architecture, AI applications, and interesting technology challenges.
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/abdirizak-abdi-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-Abdirizak%20Mohamud-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_DEV_EMAIL">
+<a href="mailto:abdirizak.mohamud.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 </p>
