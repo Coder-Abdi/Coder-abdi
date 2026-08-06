@@ -15,6 +15,9 @@ Senior Software Engineer | Backend Systems | Cloud-Native Applications | AI Engi
 
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-2ea44f?style=flat-square" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Designing+cloud-native+applications;Developing+AI-powered+software;Full+Stack+%7C+Backend+%7C+Cloud+Engineering" />
+</p>
 
 
 
