@@ -5,10 +5,6 @@ Senior Software Engineer | Backend Systems | Cloud-Native Applications | AI Engi
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdirizak-abdi-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-
   <a href="mailto:abdirizak.mohamud.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
